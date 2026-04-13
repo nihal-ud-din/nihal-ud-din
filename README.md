@@ -17,7 +17,7 @@ I’m currently working on Speech-to-Text (STT) models for legal & government dr
 <!--## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=nihal-ud-din&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
