@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Production LLM/AI engineer — RAG, evals, agents, real-time STT. Building Voitec (legal AI) (https://voitec.in/). I build for hard, real-world domains, not demos.
+I'm a Production LLM/AI engineer — RAG, evals, agents, real-time STT. Building Voitec Legal AI (https://voitec.in/). I build for hard, real-world domains, not demos.
 
 
 # 💻 Tech Stack:
